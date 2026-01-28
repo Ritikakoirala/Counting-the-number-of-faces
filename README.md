@@ -13,9 +13,6 @@ The application captures live video from a webcam, detects human faces, draws bo
 - 🟩 Draws bounding boxes around detected faces  
 - 🏷️ Labels each detected face with a unique number  
 - ⌨️ Press **`q`** to exit safely  
-
----
-
 ## 🛠️ Technologies Used
 
 - **Python 3.10 / 3.11**
